@@ -1,0 +1,44 @@
+AS QUATRO LIBERDADES
+
+0 - EXECUTAR
+1 - ESTUDAR
+2 - MODIFICAR
+3 - DISTRIBUIR
+
+	Linus Stravolds, pegou um trabalho de seu professor Andrew Tanenbaum chamado MINIX. Ao começar a mexer no kernel do sistea MINIX ele percebeu
+que começou aparecer algumas restrições. Corretamente GNU/Linux. O nome inicial que o Linus quis foi Freak - x. Inicou a desenvolver
+
+Indicações de livros, THE CATHEDRAL & THE BAZAAR - ERIC S. RAYMOND.
+LINUX FOUNDATION, uma distribuição sistema operacional.
+
+DISTRIBUIÇÕES 
+0 - Red hat
+1 - Debian
+2 - Slackware Linux
+3 - Ubuntu
+4 - Fedora
+5 - Suse
+6 - Gentu
+7 - LinuxMint
+
+Todas possuem o mesmo milho (kernel), só mudo o envelope
+
+Android é Linux (Android domina o mercado, ou seja, o mercado utiliza Linux)
+
+Por que usar Linux?
+0  - código fonte disponível
+1  - Muitas aplicações ( Debian mais de 60k pacotes)
+2  - Segurança
+3  - Padrões Abertos
+4  - Rápido e escalável
+5  - Custo de software: ZERO.
+6  - confiável
+7  - Opções para suporte
+8  - Fácil de instalar
+9  - Fácil de usar
+10 - Farta documentação
+
+POR QUE NÃO USAR LINUX?
+0 - Limitações em algumas aplicações 
+1 - Falam alguns drivers
+2 - Não tem jogos
